@@ -1,0 +1,82 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "source": "camera_a",
+      "reason": "Спикер здоровается"
+    },
+    {
+      "start": 2.0,
+      "end": 2.34,
+      "source": "camera_a",
+      "reason": "Спикер продолжает говорить"
+    },
+    {
+      "start": 2.34,
+      "end": 3.94,
+      "source": "camera_a",
+      "reason": "Спикер представляет тему"
+    },
+    {
+      "start": 3.94,
+      "end": 4.26,
+      "source": "camera_a",
+      "reason": "Спикер продолжает говорить"
+    },
+    {
+      "start": 4.26,
+      "end": 5.94,
+      "source": "camera_b",
+      "reason": "Спикер объясняет технические детали"
+    },
+    {
+      "start": 5.94,
+      "end": 6.96,
+      "source": "camera_a",
+      "reason": "Спикер продолжает говорить"
+    },
+    {
+      "start": 6.96,
+      "end": 9.78,
+      "source": "camera_b",
+      "reason": "Спикер объясняет технические детали"
+    },
+    {
+      "start": 9.78,
+      "end": 9.88,
+      "source": "camera_a",
+      "reason": "Спикер продолжает говорить"
+    },
+    {
+      "start": 9.88,
+      "end": 10.62,
+      "source": "camera_a",
+      "reason": "Спикер показывает чай"
+    },
+    {
+      "start": 10.62,
+      "end": 11.28,
+      "source": "camera_a",
+      "reason": "Спикер продолжает говорить"
+    },
+    {
+      "start": 11.28,
+      "end": 13.12,
+      "source": "camera_a",
+      "reason": "Спикер продолжает говорить"
+    },
+    {
+      "start": 13.12,
+      "end": 13.28,
+      "source": "camera_a",
+      "reason": "Спикер продолжает говорить"
+    },
+    {
+      "start": 13.28,
+      "end": 14.28,
+      "source": "camera_a",
+      "reason": "Спикер продолжает говорить"
+    }
+  ]
+}
